@@ -18,6 +18,7 @@ Tugas Studi Kasus C7 ini dikerjakan untuk memenuhi evaluasi mata kuliah Desain d
 
 ## 📸 Hasil Eksekusi Program
 <img width="512" height="320" alt="Hasil Keluaran Implementasi Program" src="https://github.com/user-attachments/assets/f9d704f6-e413-44bf-a8f9-ae650fed89b9" />
+
 Berikut adalah hasil keluaran terminal saat program dijalankan. Program berhasil menemukan rute optimal dan jarak minimumnya.
 
 ## 👨‍💻 Identitas Penulis
